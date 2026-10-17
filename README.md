@@ -4,6 +4,8 @@
 
 This project analyzes real California wheat field-trial records from 2005–2018: 13,953 usable plot yields for 211 entries across 103 year-location environments. In the multi-environment model, Entry 1845 had the highest estimated mean yield (7,784 kg/ha), but that ranking is uncertain and the entries were not all tested in the same number of environments. The estimated entry-by-environment variation was substantial (SD about 717 kg/ha), so an entry's performance can change across environments. In the separate COLUSA 2010 trial, Entry 1478 had the highest observed mean (10,306 kg/ha), but Tukey comparisons did not distinguish it from several other top entries.
 
+  ![COLUSA 2010 entry means](figures/colusa_2010_all_entries.png)
+  
 ## Research questions
 
 1. Did wheat entries differ in yield in the balanced COLUSA 2010 trial after accounting for blocks?
