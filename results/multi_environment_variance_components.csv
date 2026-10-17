@@ -1,0 +1,5 @@
+"grp","var1","var2","vcov","sdcor"
+"Entry_Number:Environment","(Intercept)",NA,514332.208735619,717.169581574413
+"Environment:BLOCK","(Intercept)",NA,69289.6168609838,263.229209741214
+"Environment","(Intercept)",NA,2680914.53311725,1637.34985055646
+"Residual",NA,NA,407476.980835673,638.339236484546
